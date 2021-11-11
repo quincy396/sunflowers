@@ -1,4 +1,4 @@
-# snow living room for class
+# sunflower world
 
 demo:
-https://socalledsound.github.io/snow-room/
+https://quincy396.github.io/sunflowers/
